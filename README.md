@@ -54,7 +54,7 @@ This project aims to build a transport intelligence platform that can:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```bash
 nigeria-transport-intelligence-system/
@@ -70,7 +70,7 @@ nigeria-transport-intelligence-system/
 
 ---
 
-# 📊 Planned Features
+#  Planned Features
 
 - Fare trend analysis
 - Traffic prediction system
@@ -89,6 +89,28 @@ nigeria-transport-intelligence-system/
 - Cloud-based data pipelines
 
 ---
+
+#  Analytics Dashboard
+
+![Analytics Dashboard](screenshots/analytics_dashboard.png)
+
+---
+
+#  Transport Insights
+
+![Transport Insights](screenshots/transport_insights.png)
+
+---
+
+#  Average Fare Analysis
+
+![Average Fare Chart](screenshots/average_fare_chart.png)
+
+---
+
+#  Project Banner
+
+![Project Banner](screenshots/project_banner.png)
 
 #  Author
 

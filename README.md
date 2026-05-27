@@ -112,6 +112,36 @@ nigeria-transport-intelligence-system/
 
 ![Project Banner](screenshots/project_banner.png)
 
+# 🇳🇬 Nigeria Transport Intelligence System
+
+## Overview
+(short professional description)
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- AWS
+- SQL
+
+## 📊 Analytics Dashboard
+
+![Dashboard](screenshots/abuja_analytics_dashboard.png)
+
+## 🚦 Transport Insights
+
+![Insights](screenshots/transport_insights_dashboard.png)
+
+## 📈 Average Fare Analysis
+
+![Chart](screenshots/average_fare_chart.png)
+
+## Future Improvements
+- Real-time transport API
+- Machine Learning prediction
+- Cloud deployment
+- Dashboard automation
+
 #  Author
 
 Paul Misheal  
